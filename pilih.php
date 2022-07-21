@@ -59,17 +59,17 @@
           </tr>
 
           <tr>
-            <td>Jenis Mobil</td>
+            <td>Jenis Mobil - Biaya</td>
             <td>
               <select name="jenis" id="jenis">
-                <option>Avanza</option>
-                <option>New Avanza</option>
-                <option>Grand New Avanza</option>
-                <option>Grand New Innova</option>
-                <option>Innova Reborn</option>
-                <option>Xenia</option>
-                <option>New Xenia</option>
-                <option>Luxio</option>
+                <option>Avanza - Rp 300.000</option>
+                <option>New Avanza - Rp 350.000</option>
+                <option>Grand New Avanza - Rp 400.000</option>
+                <option>Grand New Innova - Rp 450.000</option>
+                <option>Innova Reborn - Rp 500.000 </option>
+                <option>Xenia - Rp 350.000</option>
+                <option>New Xenia - Rp 300.000</option>
+                <option>Luxio - Rp 300.000</option>
               </select>
             </td>
           </tr>
@@ -78,10 +78,10 @@
             <td>Durasi - Biaya </td>
             <td>
               <select name="harga" id="harga">
-                <option>12 jam - Rp 300.000</option>
-                <option>24 jam - Rp 600.000</option>
-                <option>36 jam - Rp 900.000</option>
-                <option>48 jam - Rp 1.200.000</option>
+                <option>12 jam - (+ Rp 0)</option>
+                <option>24 jam - (+ Rp 200.000)</option>
+                <option>36 jam - (+ Rp 400.000)</option>
+                <option>48 jam - (+ Rp 600.000)</option>
               </select>
             </td>
           </tr>

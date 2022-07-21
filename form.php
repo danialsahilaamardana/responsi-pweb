@@ -46,8 +46,8 @@ fputs($fp, "Nama : $nama\n");
 fputs($fp, "Alamat : $alamat\n");
 fputs($fp, "E-mail : $email\n");
 fputs($fp, "No. HP : $no\n");
-fputs($fp, "Jenis mobil : $jenis\n");
-fputs($fp, "Durasi - harga : $harga  \n\n");
+fputs($fp, "Jenis mobil - biaya : $jenis\n");
+fputs($fp, "Durasi - biaya : $harga  \n\n");
 fclose($fp);
 
  ?>
